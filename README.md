@@ -21,6 +21,10 @@ By analyzing behavioral patterns and transaction data associated with entities (
 - iran_user_data.csv: The user dataset required to run the notebook.
 - README.md: This documentation file.
 
+## Link to the Website
+
+https://sites.google.com/vt.edu/polymarket-insider-trading/home
+
 ## Instructions to Run the Code
 
 This code was originally developed and tested in Google Colab, so it must be run in a Colab environment.
@@ -38,7 +42,5 @@ On the left sidebar of your Google Colab workspace, click the Folder icon (Files
 Upload both iran_trade_data.csv and iran_user_data.csv into the base /content/ directory. (These were in the ZIP folder)
 
 ### Step 3: Execute the Pipeline
-
-The first few cells under "Section 0. Environment Set Up" will automatically install all necessary packages (numpy, pandas, scikit-learn, matplotlib, seaborn, etc.).
 
 Go to Runtime > Run all in the top menu bar to execute the entire pipeline sequentially.
