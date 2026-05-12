@@ -21,8 +21,9 @@ By analyzing behavioral patterns and transaction data associated with entities (
 - iran_user_data.csv: The user dataset required to run the notebook.
 - README.md: This documentation file.
 
-## Link to the Website
+## Link to the Website 
 
+Note that you will need to be signed into a VT account to view this:\
 https://sites.google.com/vt.edu/polymarket-insider-trading/home
 
 ## Instructions to Run the Code
